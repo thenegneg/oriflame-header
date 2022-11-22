@@ -1,0 +1,234 @@
+.swiper {
+  width: 100%;
+  height: 520px;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: inherit;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+/*my code*/
+div.wrapper
+  > div.all-menu
+  > div.slider
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > P.p1 {
+  position: absolute;
+  right: 200px;
+  top: 180px;
+  color: #858381;
+  font-family: f02;
+  font-weight: 600;
+  font-size: 1.2em;
+}
+
+div.wrapper
+  > div.all-menu
+  > div.slider
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > h1.h1 {
+  position: absolute;
+  right: 190px;
+  top: 210px;
+  color: #858381;
+  font-family: f07;
+  font-weight: 600;
+  font-size: 2.9em;
+  text-align: center;
+  line-height: 50px;
+}
+
+div.wrapper
+  > div.all-menu
+  > div.slider
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a.a1 {
+  width: 150px;
+  height: 40px;
+  background-color: #3f2c205d;
+  position: absolute;
+  right: 370px;
+  top: 320px;
+  border-radius: 30px;
+  color: whitesmoke;
+  font-family: f04;
+  font-size: 0.8em;
+  font-weight: 600;
+  padding: 10px 0 0 4px;
+  transition: 500ms;
+}
+
+div.wrapper
+  > div.all-menu
+  > div.slider
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a.a1:hover {
+  background-color: #fed1aa;
+  color: black;
+}
+
+div.wrapper
+  > div.all-menu
+  > div.slider
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > P.p2 {
+  position: absolute;
+  right: 250px;
+  top: 220px;
+  color: #ffffff;
+  font-family: f02;
+  font-weight: 600;
+  font-size: 1.1em;
+}
+
+div.wrapper
+  > div.all-menu
+  > div.slider
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > h1.h2 {
+  position: absolute;
+  right: 225px;
+  top: 250px;
+  color: #ffffff;
+  font-family: f07;
+  font-weight: 600;
+  font-size: 2.7em;
+  text-align: center;
+  line-height: 50px;
+}
+
+div.wrapper
+  > div.all-menu
+  > div.slider
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a.a2 {
+  width: 150px;
+  height: 40px;
+  background-color: #3f2c205d;
+  position: absolute;
+  right: 350px;
+  top: 305px;
+  border-radius: 30px;
+  color: whitesmoke;
+  font-family: f04;
+  font-size: 0.8em;
+  font-weight: 600;
+  padding: 10px 0 0 8px;
+  transition: 500ms;
+}
+
+div.wrapper
+  > div.all-menu
+  > div.slider
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a.a2:hover {
+  background-color: #b1666b;
+  color: black;
+}
+
+div.wrapper
+  > div.all-menu
+  > div.slider
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > P.p3 {
+  position: absolute;
+  right: 260px;
+  top: 190px;
+  color: #ffffff;
+  font-family: f02;
+  font-weight: 600;
+  font-size: 1em;
+}
+
+div.wrapper
+  > div.all-menu
+  > div.slider
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > h1.h3 {
+  position: absolute;
+  right: 140px;
+  top: 220px;
+  color: #ffffff;
+  font-family: f07;
+  font-weight: 600;
+  font-size: 2.5em;
+  text-align: center;
+  line-height: 50px;
+}
+
+div.wrapper
+  > div.all-menu
+  > div.slider
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a.a3 {
+  width: 150px;
+  height: 40px;
+  background-color: #37191976;
+  position: absolute;
+  right: 300px;
+  top: 330px;
+  border-radius: 30px;
+  color: whitesmoke;
+  font-family: f04;
+  font-size: 0.7em;
+  font-weight: 600;
+  padding: 12px 0 0 4px;
+  transition: 500ms;
+}
+
+div.wrapper
+  > div.all-menu
+  > div.slider
+  > div.swiper
+  > div.swiper-wrapper
+  > div.swiper-slide
+  > a.a3:hover {
+  background-color: #cd828790;
+  color: black;
+}

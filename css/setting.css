@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+div.wrapper{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+@font-face {
+    font-family: f01;
+    src: url(../fonts/fanlste/fanlste.otf);
+}
+@font-face {
+    font-family: f02;
+    src: url(../fonts/gaqire/GAQIRE.otf);
+}
+@font-face {
+    font-family: f03;
+    src: url(../fonts/gracie/Gracie.otf);
+}
+@font-face {
+    font-family: f04;
+    src: url(../fonts/grenda/Grenda.otf);
+}
+@font-face {
+    font-family: f05;
+    src: url(../fonts/oriflame-script/Oriflame\ Script.ttf);
+}
+@font-face {
+    font-family: f06;
+    src: url(../fonts/revillia/Revillia.otf);
+}
+
+@font-face {
+    font-family: f07;
+    src: url(../fonts/pompano/PompanoDEMO.otf);
+}
+
+div.all-menu{
+    width: 100%;
+    position: relative;
+    top: 60px;
+}
